@@ -15,6 +15,6 @@
 
 ## Estatísticas do GitHub 📉
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=XT07&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XT07&layout=compact&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=XT07&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XT07&layout=compact&theme=dark"/>
 </p>
