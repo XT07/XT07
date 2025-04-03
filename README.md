@@ -2,7 +2,7 @@
 ## Olá, me chamo Luiz Felipe e atuo na áre de programação a 5 anos e programar é a minha paixão ♡
 - Desenvolvedor full-stack 🧑‍💻
 - Atualmente fazendo ADS 🖧
-- Estudando redes fora da faculdade 🔗
+- Estudando redes 🔗
 
 ## Linguagens favoritas ★
 <div style="display: inline_block"><br>
